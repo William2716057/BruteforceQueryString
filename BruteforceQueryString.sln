@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BruteforceQueryString", "BruteforceQueryString\BruteforceQueryString.pyproj", "{EB47F8B4-3C07-4405-8912-B14F12825CEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB47F8B4-3C07-4405-8912-B14F12825CEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB47F8B4-3C07-4405-8912-B14F12825CEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3DD4ABD-C19A-40EE-8AE2-B6A799EB5D7C}
+	EndGlobalSection
+EndGlobal
